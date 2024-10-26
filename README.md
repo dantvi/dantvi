@@ -6,8 +6,6 @@
 - 📚 My favorite technologies include: HTML, CSS, JavaScript, React, Node.js, Express, and PostgreSQL.
 - 🌱 Right now, I'm developing projects to showcase my skills as a full-stack developer.
 
-🚀 Visit my website: [Currently under construction]
-
 ### Languages and tools
 <code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
