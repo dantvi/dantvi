@@ -27,9 +27,6 @@
 
 <code><img height="40" alt="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
 
-## 📊 GitHub Stats  
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantvi&show_icons=true&theme=tokyonight)  
-
 ## 📩 Contact Me  
 [LinkedIn](https://www.linkedin.com/in/daniel-tving) | [Frontend Mentor](https://www.frontendmentor.io/profile/dantvi) | [freeCodeCamp](https://www.freecodecamp.org/dantvi)  
 
