@@ -2,9 +2,9 @@
 
 👋 Hi, I'm Daniel Tving! I'm a full-stack developer passionate about building scalable, efficient, and user-friendly web applications. My expertise lies in **React, Node.js, Express, and SQL**, but I enjoy working across the entire stack.
 
-🌍 **Portfolio:** [DT Code](https://portfolio.dtcode.se/)  
+🌍 **Portfolio:** [DT Code](https://dtcode.se/)  
 📍 Based in Stockholm, Sweden  
-🎯 Currently finalizing my Full Stack Developer studies and looking for internship opportunities.  
+🎯 Currently finalizing my Full Stack Developer studies.  
 
 ## Languages and Tools  
 <code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
